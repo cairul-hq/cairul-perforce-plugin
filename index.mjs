@@ -18,7 +18,7 @@ import {
   text,
   verdict,
   z,
-} from '@cairul/plugin-kit';
+} from '@cairul/pdk';
 
 const exec = promisify(execFile);
 
